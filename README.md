@@ -8,4 +8,5 @@ The 3 components shown are linked through state. Changing any of the properties 
 
 ![Screenshot](/public/images/Screenshot.png)
 
+![Screenshot](/public/images/Screenshot2.png)
 
