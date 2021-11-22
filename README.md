@@ -4,7 +4,7 @@ Basic app from webos React For Beginners class.
 
 https://reactforbeginners.com/
 
-The 3 components shown are linked through state. Changing any of the properties on the fish is reflected in all 3 columns of site.
+The 3 columns shown are linked through state. Changing any of the properties on the fish is reflected in all 3 columns of site.
 
 ![Screenshot](/public/images/Screenshot.png)
 
